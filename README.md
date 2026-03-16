@@ -3,4 +3,4 @@
 Saving sign locations and types
 
 > [!TIP]
-> To not doxx yourself, contribute by using Street View in not documented places.
+> To not dox yourself, contribute by using Street View in not documented places.
