@@ -28,5 +28,17 @@
     "longitude": -73.97775946477773,
     "description": null,
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/MUTCD_R6-1R.svg"
+  },
+  {
+    "latitude": 40.757905703420136,
+    "longitude": -73.97749145408372,
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/MUTCD_R6-1L.svg"
+  },
+  {
+    "latitude": 40.75794375849556,
+    "longitude": -73.97751072396993,
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/MUTCD_R6-1L.svg"
   }
 ]
